@@ -61,7 +61,7 @@ table {
 
 body {
   font: 16px/1.4em 'PT Sans', sans-serif;
-/*  color: #1c1c1c; */
+  /*  color: #1c1c1c; */
 }
 
 p,
@@ -75,13 +75,13 @@ ul {
 }
 
 a {
- /* color: #1D745A; */
+  /* color: #1D745A; */
   text-decoration: none;
   -webkit-tap-highlight-color: #FF5E99;
 }
 
 h1 {
- font-family: 'PT Serif', serif;
+  font-family: 'PT Serif', serif;
   font-size: 32px; 
   font-size: 5.0vw;
   line-height: 1.4em;
@@ -112,7 +112,7 @@ article {
 /*header*/
 
 header {
-/*  background: #1c1c1c; */
+  /*  background: #1c1c1c; */
   padding: 15px 20px;
 }
 
@@ -134,20 +134,20 @@ header {
 
 /*
 h1.logo a {
-  color: #d8d8d8;
-  text-decoration: none;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 20px;
-  line-height: 22px;
-  float: left;
-  letter-spacing: 0.2em;
+color: #d8d8d8;
+text-decoration: none;
+font-weight: bold;
+text-transform: uppercase;
+font-size: 20px;
+line-height: 22px;
+float: left;
+letter-spacing: 0.2em;
 } */
 
 a.to_nav {
   float: right;
   /* color: #fff; */
- /* background: #4e4e4e; */
+  /* background: #4e4e4e; */
   text-decoration: none;
   padding: 0 10px;
   font-size: 12px;
@@ -163,8 +163,8 @@ a.to_nav {
 
 /* a.to_nav:hover,
 a.to_nav:focus {
-  color: #1c1c1c;
-  background: #ccc;
+color: #1c1c1c;
+background: #ccc;
 } */
 
 /*navigation*/
@@ -196,8 +196,8 @@ a.to_nav:focus {
 /*
 #primary_nav li a:hover,
 #primary_nav li a:focus {
-  color: #1c1c1c;
-  background: #ccc;
+color: #1c1c1c;
+background: #ccc;
 } */
 
 /*footer*/
@@ -228,7 +228,7 @@ footer {
     position: absolute;
     top: 5px;
     right: 10px;
-   /* background: none; */
+    /* background: none; */
   }
 
   #primary_nav li {
@@ -267,7 +267,7 @@ color: #586e75; }
 html a:hover, html.light a:hover {
 background-color: #eee8d5; }
 html header, html.light header {
-/*  background-color: #93a1a1; */
+  /*  background-color: #93a1a1; */
 color: #586e75; }
 html header a.navlink, html header a:active.navlink, html header a:visited.navlink, html.light header a.navlink, html.light header a:active.navlink, html.light header a:visited.navlink {
 color: #586e75; }
