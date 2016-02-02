@@ -84,7 +84,7 @@ a {
 }
 
 h1 {
-  font-family: 'PT Serif', serif;
+  font-family: 'Lato', san-serif;
   font-size: 32px; 
   font-size: 5.0vw;
   line-height: 1.4em;
@@ -206,7 +206,7 @@ background: #ccc;
 /*footer*/
 
 footer {
-  font-family: 'PT Serif', serif;
+  font-family: 'Lato', serif;
   font-style: italic;
   text-align: center;
   font-size: 14px;
