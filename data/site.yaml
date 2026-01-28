@@ -1,0 +1,34 @@
+site_name: Cara J. Wong
+site_title: Cara Wong
+role: Professor of Political Science and Asian American Studies
+institution: University of Illinois at Urbana-Champaign
+description: "Research on political behavior, communities, race, immigration, and citizenship."
+email: carawong@illinois.edu
+office: 424 David Kinley Hall, 1407 W. Gregory Dr., Urbana, IL 61801
+photo: Images/imageWong.jpg
+cv: wong-vita.pdf
+navigation:
+  - title: Home
+    url: index.html
+  - title: Publications
+    url: published.html
+  - title: Current Projects
+    url: papers.html
+  - title: Teaching
+    url: teaching.html
+  - title: Data & Code
+    url: datacode.html
+hero:
+  subtitle: Political behavior, race and ethnicity, immigration, and citizenship
+  focus:
+    - Political psychology and identity
+    - Communities, place, and local context
+    - Race, immigration, and public opinion
+    - Citizenship, belonging, and civic obligation
+  affiliations:
+    - Cline Center for Advanced Social Research
+    - Center for Social and Behavioral Science
+    - Center for Latin American and Caribbean Studies
+    - Center for Global Studies
+footer:
+  note: "Last updated"
