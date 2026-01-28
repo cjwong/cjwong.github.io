@@ -1,7 +1,9 @@
-## Maps in Their Heads
+## Maps in Their Heads Projects
+
 - [Qualtrics mapping tools](https://github.com/cwong-lab/QualtricsMapping) for collecting hand-drawn maps and map interactions in surveys.
 
 ### Mapping Local Communities Canada
+- [Replication Materials](https://doi.org/10.7910/DVN/R6ABJ2) for "A Two Path Theory of Context Effects: Pseudoenvironments and Social Cohesion."
 - [Replication materials](https://doi.org/10.7910/DVN/9XWGHN) for "Maps in People's Heads: Assessing A New Measure of Context."
 
 ### Mapping Local Communities UK and USA

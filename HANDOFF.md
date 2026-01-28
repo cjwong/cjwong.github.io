@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is Cara Wong's academic website (carawong.org), a static site built with a custom Python generator. Previous sessions converted the publications page from manual YAML to BibTeX-based generation. **This session focused on launching the site at carawong.org via GitHub Pages.**
+This is Cara Wong's academic website (carawong.org), a static site built with a custom Python generator. Previous sessions converted the publications page from manual YAML to BibTeX-based generation. **This session completed the launch: the site is now live at https://carawong.org.**
 
 ---
 
@@ -201,3 +201,4 @@ The site is live and verified:
 - ✅ https://www.carawong.org - works
 - ✅ HTTPS certificate valid
 - ✅ All pages accessible
+- ✅ GitHub Actions workflow updated and tested (correctly skips non-source file changes)
