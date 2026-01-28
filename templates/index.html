@@ -1,0 +1,74 @@
+<section class="hero">
+  <div class="hero-text">
+    <p class="eyebrow">{{ site.role }}</p>
+    <h1>{{ site.site_name }}</h1>
+    <p class="lead">{{ site.hero.subtitle }}</p>
+    <div class="hero-actions">
+      <a class="button" href="{{ site.cv }}">Download CV</a>
+      <a class="button ghost" href="mailto:{{ site.email }}">Email</a>
+    </div>
+    <dl class="hero-details">
+      <div>
+        <dt>Office</dt>
+        <dd>{{ site.office }}</dd>
+      </div>
+      <div>
+        <dt>Institution</dt>
+        <dd>{{ site.institution }}</dd>
+      </div>
+    </dl>
+  </div>
+  <div class="hero-photo">
+    <div class="photo-frame">
+      <img src="{{ site.photo }}" alt="Portrait of {{ site.site_name }}">
+    </div>
+  </div>
+</section>
+
+<section class="section focus-section">
+  <div class="container focus-grid">
+    <div>
+      <h2>Research focus</h2>
+      <ul class="focus-list">
+        {% for item in site.hero.focus %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div>
+      <h2>Affiliations</h2>
+      <ul class="focus-list">
+        {% for item in site.hero.affiliations %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section content-section">
+  <div class="container content-narrow">
+    {{ page_body | safe }}
+  </div>
+</section>
+
+<section class="section card-section">
+  <div class="container card-grid">
+    <a class="card" href="published.html">
+      <span class="card-title">Publications</span>
+      <span class="card-text">Full citations with PDFs and journal links.</span>
+    </a>
+    <a class="card" href="papers.html">
+      <span class="card-title">Current Projects</span>
+      <span class="card-text">Book projects, works in progress, and related work.</span>
+    </a>
+    <a class="card" href="teaching.html">
+      <span class="card-title">Teaching</span>
+      <span class="card-text">Recent and past courses at Illinois.</span>
+    </a>
+    <a class="card" href="datacode.html">
+      <span class="card-title">Data &amp; Code</span>
+      <span class="card-text">Replication materials and project repositories.</span>
+    </a>
+  </div>
+</section>

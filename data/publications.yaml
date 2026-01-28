@@ -1,0 +1,234 @@
+sections:
+  - title: Books and Monographs
+    items:
+      - authors: "Cara J. Wong, Ethan Busby, and Chris Karpowitz"
+        year: 2025
+        title: "Handbook of Innovations in Political Psychology"
+        venue: "Edward Elgar Publishing"
+        note: "Co-editor."
+        links:
+          - label: "DOI"
+            url: "https://doi.org/10.4337/9781803924830"
+      - authors: "Cara J. Wong"
+        year: 2010
+        title: "Boundaries of Obligation in American Politics: Geographic, National, and Racial Communities"
+        venue: "Cambridge University Press"
+        links:
+          - label: "Publisher"
+            url: "http://www.cambridge.org/9780521691840"
+          - label: "DOI"
+            url: "https://doi.org/10.1017/cbo9780511802874"
+          - label: "Web appendix"
+            url: "Resources/Boundaries-Appendix.pdf"
+      - authors: "Cara J. Wong, Bruce Cain, and Jack Citrin"
+        year: 2000
+        title: "Ethnic Context, Race Relations, and California Politics"
+        venue: "Public Policy Institute of California"
+        links:
+          - label: "PDF"
+            url: "Papers/ppic.pdf"
+
+  - title: Journal Articles
+    items:
+      - authors: "Cara J. Wong, Jake Bowers, Daniel Rubenson, Mark Fredrickson, and Ashlea Rundlett"
+        year: 2025
+        title: "A Two Path Theory of Context Effects: Pseudoenvironments and Social Cohesion"
+        venue: "British Journal of Political Science"
+        status: "Forthcoming"
+        links:
+          - label: "DOI"
+            url: "https://doi.org/10.1017/S0007123425101099"
+          - label: "PDF"
+            url: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4A351906BD9A5266D94BA92162BF445D/S0007123425101099a.pdf/div-class-title-a-two-path-theory-of-context-effects-pseudoenvironments-and-social-cohesion-div.pdf"
+      - authors: "Cara J. Wong, Seyoung Jung, and Younghyun Lee"
+        year: 2025
+        title: "What Can Dual Citizens Teach Us about Political Engagement?"
+        venue: "Political Science Research and Methods"
+        status: "Forthcoming"
+        links:
+          - label: "DOI"
+            url: "https://doi.org/10.1017/psrm.2025.10053"
+          - label: "PDF"
+            url: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/74D05E06DACDDD15A034A1787C4E6CD6/S2049847025100538a.pdf/div-class-title-what-can-dual-citizens-teach-us-about-political-engagement-div.pdf"
+      - authors: "Cara J. Wong, Brian Guay, Tyler Marghetis, and David Landy"
+        year: 2025
+        title: "Quirks of Cognition Explain Why We Dramatically Overestimate the Size of Minority Groups"
+        venue: "Proceedings of the National Academy of Sciences 122(14)"
+        links:
+          - label: "DOI"
+            url: "https://doi.org/10.1073/pnas.2413064122"
+          - label: "PDF"
+            url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12002232/pdf/pnas.202413064.pdf"
+      - authors: "Cara J. Wong, Jair Moreira, Hyo-Won Shin, and Matt Winters"
+        year: 2024
+        title: "Ballots Beyond Borders: Attitudes Towards External Voting in Colombia"
+        venue: "Democratization 32: 466-494"
+        links:
+          - label: "Journal"
+            url: "https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2377332"
+      - authors: "Cara J. Wong, Adam Berinsky, Christopher Karpowitz, Zeyu Chris Peng, and Jonathan Rodden"
+        year: 2023
+        title: "How Social Context Affects Immigration Attitudes"
+        venue: "Journal of Politics 85: 372-388"
+        links:
+          - label: "Journal"
+            url: "https://www.journals.uchicago.edu/doi/10.1086/722339"
+      - authors: "Cara J. Wong, Matthew Hayes, Mark Fredrickson, Chera LaForge, and Andrew Bloeser"
+        year: 2022
+        title: "Elected Officials, Empowered Voters: The Impact of Descriptive Representation on Voter Turnout"
+        venue: "Political Behavior"
+        links:
+          - label: "Journal"
+            url: "https://link.springer.com/article/10.1007/s11109-022-09823-0"
+      - authors: "Cara J. Wong and Jonathan Bonaguro"
+        year: 2020
+        title: "The Value of Citizenship and Service to the Nation"
+        venue: "Russell Sage Foundation Journal of the Social Sciences 6: 96-116"
+        links:
+          - label: "DOI"
+            url: "https://doi.org/10.7758/rsf.2020.6.3.05"
+          - label: "PDF"
+            url: "https://www.rsfjournal.org/content/6/3/96.full.pdf"
+      - authors: "Cara J. Wong, Jake Bowers, Daniel Rubenson, Mark Fredrickson, and Ashlea Rundlett"
+        year: 2020
+        title: "Maps in People's Heads: Assessing A New Measure of Context"
+        venue: "Political Science Research and Methods 8: 160-168"
+        links:
+          - label: "PDF"
+            url: "Papers/PSRMWongEtAl.pdf"
+      - authors: "Cara J. Wong, Jack Citrin, and Morris Levy"
+        year: 2017
+        title: "Politics and the English Language in California: Bilingual Education at the Polls"
+        venue: "California Journal of Politics and Policy 9: 1-14"
+        links:
+          - label: "PDF"
+            url: "Papers/BilingualEd2017.pdf"
+      - authors: "Cara J. Wong and Vincent Hutchings"
+        year: 2014
+        title: "Racism, Group Position, and Attitudes about Immigration Among Blacks and Whites"
+        venue: "Du Bois Review 11: 419-442"
+        links:
+          - label: "PDF"
+            url: "Papers/HutchingsWong2014Page1.pdf"
+      - authors: "Cara J. Wong"
+        year: 2014
+        title: "Would We Know 'Integration' If We Were To See It?: Measurement and The Imperative of Integration"
+        venue: "Political Studies Review 12: 353-360"
+        links:
+          - label: "PDF"
+            url: "Papers/Wong2014AndersonComments.pdf"
+      - authors: "Cara J. Wong, Jake Bowers, Tarah Williams, and Katherine Drake Simmons"
+        year: 2012
+        title: "Bringing the Person Back In: Boundaries, Perceptions, and the Measurement of Racial Context"
+        venue: "Journal of Politics 74: 1153-1170"
+        links:
+          - label: "PDF"
+            url: "Papers/WongEtAll2012.pdf"
+      - authors: "Cara J. Wong"
+        year: 2007
+        title: "Little and Big Pictures in Our Heads: Race, Local Context and Innumeracy about Racial Groups in the U.S."
+        venue: "Public Opinion Quarterly 71: 392-412"
+        links:
+          - label: "PDF"
+            url: "Papers/WongPOQ.pdf"
+      - authors: "Cara J. Wong"
+        year: 2007
+        title: "Who Fights: Substitution, Commutation, and Green Card Troops"
+        venue: "Du Bois Review 4: 1-22"
+        links:
+          - label: "PDF"
+            url: "Papers/WongDuBoisReview.pdf"
+      - authors: "Cara J. Wong, Andrea Campbell, and Jack Citrin"
+        year: 2006
+        title: "Racial Threat, Partisan Climate, and Direct Democracy: Contextual Effects in Three California Initiatives"
+        venue: "Political Behavior 28: 129-150"
+        links:
+          - label: "PDF"
+            url: "Papers/PolBehavior.pdf"
+      - authors: "Cara J. Wong and Grace Cho"
+        year: 2005
+        title: "Two-Headed Coins or Kandinskys: White Racial Identification"
+        venue: "Political Psychology 26: 699-720"
+        links:
+          - label: "PDF"
+            url: "Papers/PolPsych.pdf"
+      - authors: "Cara J. Wong, Jack Citrin, David Sears, and Christopher Muste"
+        year: 2001
+        title: "Multiculturalism in American Public Opinion"
+        venue: "British Journal of Political Science 31: 247-75"
+        links:
+          - label: "PDF"
+            url: "Papers/bjps.pdf"
+      - authors: "Cara J. Wong, Jack Citrin, Donald P. Green, and Christopher Muste"
+        year: 1997
+        title: "Public Opinion Toward Immigration Reform: The Role of Economic Motivations"
+        venue: "The Journal of Politics 59: 858-81"
+        links:
+          - label: "PDF"
+            url: "Papers/jop.pdf"
+
+  - title: Book Chapters
+    items:
+      - authors: "Cara J. Wong, Vincent Hutchings, James Jackson, and Ronald Brown"
+        year: 2011
+        title: "Explaining Perceptions of Competitive Threat in a Multiracial Context"
+        venue: "In Race, Reform, and Regulation of the Electoral Process"
+        note: "Edited by Heather Gerken, Guy-Uriel Charles, and Michael Kang. Cambridge University Press."
+        links:
+          - label: "PDF"
+            url: "Papers/Explaining2011.pdf"
+      - authors: "Cara J. Wong"
+        year: 2009
+        title: "Who Belongs? Assimilation, Integration and Multiculturalism in the United States"
+        venue: "In Nations of Immigrants, 2nd edition"
+        note: "Edited by Gary Freeman, John Higley, and James Jupp. Edward Elgar."
+        links:
+          - label: "PDF"
+            url: "Papers/NationsOfImmigrants2009.pdf"
+      - authors: "Cara J. Wong and Grace Cho"
+        year: 2006
+        title: "Jus Meritum: Citizenship for Service"
+        venue: "In Transforming Politics, Transforming America"
+        note: "Edited by Taeku Lee, Karthick Ramakrishnan, and Ricardo Ramirez. University of Virginia Press."
+        links:
+          - label: "PDF"
+            url: "Papers/JusMeritum.pdf"
+      - authors: "Cara J. Wong, Jack Citrin, and Brian Duff"
+        year: 2001
+        title: "The Meaning of American National Identity"
+        venue: "In Social Identity, Intergroup Conflict, and Conflict Reduction"
+        note: "Edited by Richard D. Ashmore and Lee Jussim. Oxford University Press."
+        links:
+          - label: "PDF"
+            url: "Papers/SocialIdentity2001.pdf"
+
+  - title: Other Publications
+    items:
+      - authors: "Cara J. Wong"
+        year: 2019
+        title: "How Generation Z, as the Multicultural Vanguard, Can Safeguard the Future of America"
+        venue: "Pacific Standard"
+        links:
+          - label: "Article"
+            url: "https://psmag.com/ideas/how-generation-z-as-the-multicultural-vanguard-can-safeguard-the-future-of-america"
+      - authors: "Cara J. Wong"
+        year: 2009
+        title: "Participacion de los inmigrantes en los Estados Unidos de America"
+        venue: "Panorama Social 8"
+        links:
+          - label: "PDF"
+            url: "https://www.funcas.es/wp-content/uploads/Migracion/Articulos/FUNCAS_PS/008art12.pdf"
+      - authors: "James Jackson, Vincent Hutchings, Ronald Brown, and Cara J. Wong"
+        year: 2009
+        title: "National Politics Study, 2004 [Computer file]. ICPSR24483-v1"
+        venue: "Interuniversity Consortium for Political and Social Research"
+        links:
+          - label: "ICPSR"
+            url: "http://dx.doi.org/10.3886/ICPSR24483"
+      - authors: "Cara J. Wong"
+        year: 1998
+        title: "Group Closeness"
+        venue: "Pilot Study Report to the 1997 NES Pilot Study Committee and the American National Election Study Board of Overseers"
+        links:
+          - label: "Report"
+            url: "http://www.umich.edu/~nes/resources/papers/pilotrpt.htm"
